@@ -1,2 +1,3 @@
-# sociailly
-This is a groupwork website
+# sociailly + Combined CV
+
+# shows a few booking techniques
